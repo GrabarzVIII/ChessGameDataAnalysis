@@ -25,7 +25,7 @@ This repository contains SQL queries for analyzing online chess game data. The q
 3. Explore the results and visualize the data as needed.
 
 ## Visualizations
-For visual representations of the data, check out my [LinkedIn post]([insert_link_to_linkedin_post](https://www.linkedin.com/feed/update/urn:li:activity:7136456654241292290/)) where I showcase the insights generated from these queries.
+For visual representations of the data, check out my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7136456654241292290/) where I showcase the insights generated from these queries.
 
 ## Contributions
 Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
